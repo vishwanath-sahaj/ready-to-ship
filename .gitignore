@@ -1,0 +1,6 @@
+.env
+data/
+output/
+temp/
+working/
+.DS_Store
